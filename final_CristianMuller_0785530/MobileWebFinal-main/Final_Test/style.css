@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding: 5px;
+}
+
+form div{
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    label{
+        width: 100%;
+    }
+}
